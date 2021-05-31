@@ -26,3 +26,12 @@ Misc Topics:
 - 
 
 Resources:
+
+May 30 - June 5th:
+- Following a beginner friendly tutorial: https://www.youtube.com/watch?v=aP-SQXTtWhY (2 hours)
+Learnings: I was able to build an app with multiple screens, navigate between screens and load in some constant data from a json file. There were a lot of things like decoding data from the app bundle that seemed strange but Paul is a great teacher and I plan on using more of his resources. Although this tutorial is very introductory, it's a great starting point regardless of your programming background. Paul explains concepts that were familiar to me in the context of iOS's environment. I found that adding comments to the parts of the tutorial that were somewhat complex helps me understand things in my own language/though process.
+
+Rating: 10/10
+Time commitment about 4 hours if you take a break in between.
+
+Next Step: Now that I know some of the basics, I am going to work on building a more custom UI and exploring the modifiers. I want to learn how to take in user data and perform certain operations on their data.
